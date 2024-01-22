@@ -5,7 +5,7 @@ This simple Weight Converter GUI allows users to input a weight in kilograms and
 
 ### Download the Executable
 To run the Weight Converter GUI without Python installation, you can double-click on the executable file provided below:
-
+https://github.com/Gourav-Chavan/Building-a-Simple-GUI-with-Tkinter-in-Python/releases/download/v1.0.0/weight_converter.exe
 
 ### Usage:
 
